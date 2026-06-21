@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas de amor eterno, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Sábanas de amor eterno, Vol. 2** (sabanas-de-amor-eterno-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:11:23.395838 | `v1` | `2f752ff468263f41c67771bb1503ddf3970fd5d617d1b4e350da1fd1df23dcfe` | `8a2c4f5707ffa05d26b7d1aa2b25940ce89fe0261a7d53cfb73f783ec5cdd117` | `2026-06-21_sabanas-de-amor-eterno-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

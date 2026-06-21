@@ -1,4 +1,4 @@
-# Sábanas de amor eterno
+# Sábanas de amor eterno, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Sábanas de amor eterno |
+| **Title** | Sábanas de amor eterno, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sábanas de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-amor-eterno/) |
+| **Get License** | [Request Licensing for Sábanas de amor eterno, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Las sábanas huelen a ti, mami, no voy a mentir
+> Ese flow de Madrid me tiene sin poder dormir
+> Tú eres mi VIP, nena, mi único deseo
+> Bajo las luces del club, es tu cuerpo lo que veo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `2f752ff468263f41c67771bb1503ddf3970fd5d617d1b4e350da1fd1df23dcfe` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

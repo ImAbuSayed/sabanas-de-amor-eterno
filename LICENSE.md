@@ -1,6 +1,6 @@
 # License
 
-**Sábanas de amor eterno**
+**Sábanas de amor eterno, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
